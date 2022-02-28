@@ -14,7 +14,7 @@
 <a href="https://twitter.com/bikramjitindia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bikramjitindia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bikramjit-saha-44b3251a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikramjit-saha-44b3251a0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bikramjit saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bikramjit saha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bikramjit21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikramjit21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coder_bikramjit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coder_bikramjit" height="30" width="40" /></a>
 <a href="https://discord.gg/#9325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9325" height="30" width="40" /></a>
 </p>
 
