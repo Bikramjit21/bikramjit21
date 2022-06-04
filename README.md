@@ -19,10 +19,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Bikramjit21&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📋Devcard
-<a href="https://app.daily.dev/bikramjit21"><img src="https://github.com/Bikramjit21/bikramjit21/main/devcard.svg" width="400" alt="Bikramjit Saha's Dev Card"/></a>
+<a href="https://app.daily.dev/bikramjit21"><img src="https://github.com/Bikramjit21/bikramjit21/blob/main/devcard.svg
+" width="400" alt="Bikramjit Saha's Dev Card"/></a>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
