@@ -21,6 +21,7 @@
 ## 📋Devcard
 <a href="https://app.daily.dev/bikramjit21"><img src="https://github.com/Bikramjit21/bikramjit21/blob/main/devcard.svg
 " width="400" alt="Bikramjit Saha's Dev Card"/></a>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 😂Random Dev Meme
