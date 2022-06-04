@@ -18,6 +18,8 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bikramjit21&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
+## 📋Devcard
+<a href="https://app.daily.dev/bikramjit21"><img src="https://api.daily.dev/devcards/ada135772d554312aeaeec8816776738.png?r=5sl" width="400" alt="Bikramjit Saha's Dev Card"/></a>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
