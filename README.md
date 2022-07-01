@@ -1,6 +1,6 @@
 # 💫About Me :
-- 🌱 I'm currently a beginner in **Web3 Space**
-- 👯 I'm looking to work in different **Web3 Companies**
+- 🌱 I'm currently a junior associate at **Celebal Technologies**
+- 👯 I'm looking to network with different people.
 - 💬 Ask me about anything. I will be there to help you out
 - 😄 Pronouns : **He/Him/His**
 - ⚡ Fun Fact : **I can give free motivation to everyone.**
