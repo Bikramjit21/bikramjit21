@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikramjit21" alt="bikramjit21" /></a> </p>
 
-- 🌱 I’m currently learning **Front-End Development with React JS.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 🤝 I’m looking for help with **tech related stuff.**
 
